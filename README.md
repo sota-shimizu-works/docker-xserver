@@ -1,2 +1,4 @@
-# docker-xserver
-Environment similar to xserver.
+# Development environment for xserver with docker
+
+### Image to be used.
+<br>

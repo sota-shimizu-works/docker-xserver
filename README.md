@@ -1,6 +1,6 @@
 # Development environment for xserver with docker
 
-### Image to be used.
+### Images.
 
 <br>
 
@@ -22,7 +22,7 @@ Move to the root directory.
 
 <br>
 
-Build image.
+Build images.
 
 ```
 # docker-compose build
